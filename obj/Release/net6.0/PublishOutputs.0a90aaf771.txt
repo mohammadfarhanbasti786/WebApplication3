@@ -1,0 +1,13 @@
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.exe
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.dll
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.deps.json
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.runtimeconfig.json
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.pdb
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mohammadfarhanbasti\source\repos\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
